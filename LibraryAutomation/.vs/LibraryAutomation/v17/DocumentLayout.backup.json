@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ipeky\\source\\repos\\LibraryAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF07F5CC-3C7A-4C1F-9169-9907F02D0354}|LibraryAutomation\\LibraryAutomation.csproj|c:\\users\\ipeky\\source\\repos\\libraryautomation\\libraryautomation\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF07F5CC-3C7A-4C1F-9169-9907F02D0354}|LibraryAutomation\\LibraryAutomation.csproj|solutionrelative:libraryautomation\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ipeky\\source\\repos\\LibraryAutomation\\LibraryAutomation\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibraryAutomation\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ipeky\\source\\repos\\LibraryAutomation\\LibraryAutomation\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LibraryAutomation\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:06:20.184Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

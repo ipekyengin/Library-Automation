@@ -1,0 +1,6 @@
+C:\Users\ipeky\source\repos\LibraryAutomation\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ipeky\source\repos\LibraryAutomation\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ipeky\source\repos\LibraryAutomation\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\ipeky\source\repos\LibraryAutomation\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ipeky\source\repos\LibraryAutomation\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\ipeky\source\repos\LibraryAutomation\EntityLayer\obj\Debug\EntityLayer.pdb
