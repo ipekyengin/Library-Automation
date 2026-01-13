@@ -66,6 +66,8 @@ Tüm formlar tam ekran açılır
 
 ## UML Diyagramı
 Proje için sınıf ilişkilerini gösteren UML diyagramı oluşturulmuştur.
+<img width="1024" height="1536" alt="Diagram" src="https://github.com/user-attachments/assets/67d363ec-605b-4bae-83ce-7acba62f9a63" />
+
 
 ## Kurulum ve Çalıştırma
 Projeyi klonlayın <br/>
