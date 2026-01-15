@@ -17,7 +17,7 @@ Entity Layer
 Data Access Layer (DAL)
 Business Logic Layer (BLL)
 UI (Forms)
-SQL Server (isteğe bağlı / LocalDB)
+SQL Server
 
 ## Katmanlar ve Görevleri
 #### EntityLayer
@@ -46,7 +46,6 @@ BorrowForm
 ## Özellikler
 #### Giriş Sistemi
 Kullanıcı adı ve parola kontrolü
-Parola alanı gizli (PasswordChar aktif)
 #### Üye İşlemleri
 Üye ekleme
 Üye silme
@@ -56,7 +55,7 @@ Kitap ekleme
 Kitap silme
 Kategoriye göre kitap yönetimi
 #### Ödünç Alma (Borrow)
-Üye & kitap seçimi (ComboBox)
+Üye & kitap seçimi
 Teslim tarihi belirleme
 İade durumu takibi
 #### Form Yönetimi
@@ -75,6 +74,3 @@ Projeyi klonlayın <br/>
 Visual Studio ile açın <br/>
 Gerekirse veritabanı bağlantı ayarlarını düzenleyin <br/>
 Projeyi çalıştırın <br/>
-
-## Notlar
-Proje, genişletilebilir yapıda tasarlanmıştır. Yeni modüller eklemek kolaydır.
