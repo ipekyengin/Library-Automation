@@ -1,7 +1,7 @@
 # Library-Automation
 Bu proje, C# Windows Forms kullanılarak geliştirilmiş katmanlı mimariye sahip bir Kütüphane Otomasyon Sistemidir. Temel amaç; kitap, üye ve ödünç alma işlemlerinin düzenli, sürdürülebilir ve anlaşılır bir yapıda yönetilmesini sağlamaktır.
 
-[Youtube Linki]()
+[Youtube Linki](https://youtu.be/DCK_zbxIC3Y)
 
 ### Projenin Amacı
 Kütüphane içindeki kitapların yönetilmesi
